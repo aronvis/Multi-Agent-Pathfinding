@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../AStarPlanner.h
+MAPFInstance.h
+../MAPFInstance.h
+ostream
+-
+
+../MAPFInstance.h
+vector
+-
+list
+-
+string
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/AStarPlanner.cpp
+AStarPlanner.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/AStarPlanner.h
+queue
+-
+unordered_map
+-
+algorithm
+-
+iostream
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/AStarPlanner.h
+MAPFInstance.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/MAPFInstance.h
+ostream
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/MAPFInstance.cpp
+MAPFInstance.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/MAPFInstance.h
+fstream
+-
+iostream
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/MAPFInstance.h
+vector
+-
+list
+-
+string
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/task2/task2.cpp
+iostream
+-
+fstream
+-
+MAPFInstance.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/task2/MAPFInstance.h
+AStarPlanner.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/task2/AStarPlanner.h
+tuple
+-
+vector
+-
+

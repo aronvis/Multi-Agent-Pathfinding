@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../AStarPlanner.h
+MAPFInstance.h
+../MAPFInstance.h
+ostream
+-
+
+../MAPFInstance.h
+vector
+-
+list
+-
+string
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/AStarPlanner.cpp
+AStarPlanner.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/AStarPlanner.h
+queue
+-
+unordered_map
+-
+algorithm
+-
+iostream
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/AStarPlanner.h
+MAPFInstance.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/MAPFInstance.h
+ostream
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/MAPFInstance.cpp
+MAPFInstance.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/MAPFInstance.h
+fstream
+-
+iostream
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/MAPFInstance.h
+vector
+-
+list
+-
+string
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/CBS.cpp
+CBS.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/CBS.h
+iostream
+-
+queue
+-
+list
+-
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/CBS.h
+AStarPlanner.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/AStarPlanner.h
+
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/task3.cpp
+iostream
+-
+fstream
+-
+MAPFInstance.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/MAPFInstance.h
+CBS.h
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code_to_run/task3/CBS.h
+tuple
+-
+

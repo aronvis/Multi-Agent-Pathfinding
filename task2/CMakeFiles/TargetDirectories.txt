@@ -1,0 +1,3 @@
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/task2/CMakeFiles/rebuild_cache.dir
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/task2/CMakeFiles/edit_cache.dir
+/Users/aronvischjager/Dropbox/USC/Fall_2019_USC/CSCI 360/Projects/Project 2/code/task2/CMakeFiles/task2.dir
